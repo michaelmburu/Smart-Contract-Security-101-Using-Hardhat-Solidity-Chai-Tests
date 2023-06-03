@@ -1,0 +1,17 @@
+{
+  "name": "smart-contract-security-101",
+  "version": "1.0.0",
+  "description": "Smart Contract Security 101 with HardHat",
+  "author": "Michael Ichangai Mburu",
+  "license": "MIT",
+  "scripts": {
+    "test": ""
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "hardhat": "^2.14.1"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.9.0"
+  }
+}
